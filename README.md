@@ -1,3 +1,5 @@
+see [roll-call](https://makerdao.github.io/roll-call)
+
 ### plot ID
 ```
  aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbb cccccccccccccccc dddddddddddddddd
@@ -5,13 +7,13 @@
  aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbb cccccccccccccccc dddddddddddddddd
  aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbb cccccccccccccccc dddddddddddddddd
  
- eeeeeeeee ffffff gggggg hhhhhhhhh iiiiiiiii jjjjjj kkkkkk lllllllll
- eeeeeeeee ffffff gggggg hhhhhhhhh iiiiiiiii jjjjjj kkkkkk lllllllll
- eeeeeeeee ffffff gggggg hhhhhhhhh iiiiiiiii jjjjjj kkkkkk lllllllll
+ eeeeeee ffffff ggggggg hhhhhhhhhh iiiiiiiiii jjjjjjj kkkkkk lllllll
+ eeeeeee ffffff ggggggg hhhhhhhhhh iiiiiiiiii jjjjjjj kkkkkk lllllll
+ eeeeeee ffffff ggggggg hhhhhhhhhh iiiiiiiiii jjjjjjj kkkkkk lllllll
  
- mmmm nnnn oooo ppp qqqq rrrr ssss tttt uuuu vvvv www xxxx yyyy zzzz
- mmmm nnnn oooo ppp qqqq rrrr ssss tttt uuuu vvvv www xxxx yyyy zzzz
- mmmm nnnn oooo ppp qqqq rrrr ssss tttt uuuu vvvv www xxxx yyyy zzzz
+ mmmm nnnn oooo pppp qqqq rrrrrrrr ssssssss vvvv wwww xxxx yyyy zzzz
+ mmmm nnnn oooo pppp qqqq rrrrrrrr ssssssss vvvv wwww xxxx yyyy zzzz
+ mmmm nnnn oooo pppp qqqq rrrrrrrr ssssssss vvvv wwww xxxx yyyy zzzz
  
  AAA BBB CCC DDD EEE FFF GGGG HHHH JJJJ KKKK LLL MMM NNN OOO PPP QQQ
  AAA BBB CCC DDD EEE FFF GGGG HHHH JJJJ KKKK LLL MMM NNN OOO PPP QQQ
@@ -30,13 +32,13 @@
 |                |                |                |                |
 |                |                |                |                |
 |-------------------------------------------------------------------|
-|         |      |      |         |         |      |      |         |
-|         |      |      |         |         |      |      |         |
-|         |      |      |         |         |      |      |         |
+|       |      |       |          |          |       |      |       |
+|       |      |       |          |          |       |      |       |
+|       |      |       |          |          |       |      |       |
 |-------------------------------------------------------------------|
-|    |    |    |        |    |    |    |    |    |        |    |    |
-|    |    |    |        |    |    |    |    |    |        |    |    |
-|    |    |    |        |    |    |    |    |    |        |    |    |
+|    |    |    |    |    |        |        |    |    |    |    |    |
+|    |    |    |    |    |        |        |    |    |    |    |    |
+|    |    |    |    |    |        |        |    |    |    |    |    |
 |-------------------------------------------------------------------|
 |   |   |   |   |   |   |    |    |    |    |   |   |   |   |   |   |
 |   |   |   |   |   |   |    |    |    |    |   |   |   |   |   |   |
@@ -49,26 +51,23 @@
 ```
 
 ### collaboration guide-lines (mirror)
+(temporarily collapsed)
 ```
- |\\\\\\\\\\\\\\\ \\\-------------
- ||\\\\\\\\\\\\\\ \\\\\-----------
- ||||\\\\\\\\\\\\ \\\\\\\---------
- ||||||\\\\\\\\\\ \\\\\\\\\-------
- 
- ||||||||\ \\\\\\ \\\\\\ \\\\-----
- ||||||||| \\\\\\ \\\\\\ \\\\\\---
- ||||||||| |||\\\ \\\\\\ \\\\\\\\-
- 
- |||| |||| |||| \\\ \\\\ \\\\ \\\\
- |||| |||| |||| |\\ \\\\ \\\\ \\\\
- |||| |||| |||| ||\ \\\\ \\\\ \\\\
- 
- ||| ||| ||| ||| ||\ \\\ \\\\ \\\\
- ||| ||| ||| ||| ||| |\\ \\\\ \\\\
- 
- || || || || || || || || \\ \\ \\\
- || || || || || || || || |\ \\ \\\
- || || || || || || || || || \\ \\\
- || || || || || || || || || |\ \\\
+|\\\\\\\\\\\\\\\\\\-------------
+||\\\\\\\\\\\\\\\\\\\-----------
+||||\\\\\\\\\\\\\\\\\\\---------
+||||||\\\\\\\\\\\\\\\\\\\-------
+||||||||\\\\\\\\\\\\\\\\\-----
+|||||||||\\\\\\\\\\\\\\\\\\---
+||||||||||||\\\\\\\\\\\\\\\\\-
+||||||||||||\\\\\\\\\\\\\\\
+|||||||||||||\\\\\\\\\\\\\\
+||||||||||||||\\\\\\\\\\\\\
+||||||||||||||\\\\\\\\\\\\
+||||||||||||||||\\\\\\\\\\
+||||||||||||||||\\\\\\\
+|||||||||||||||||\\\\\\
+||||||||||||||||||\\\\\
+|||||||||||||||||||\\\\
 ```
 
