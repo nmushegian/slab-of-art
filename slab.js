@@ -2,6 +2,7 @@ let snapshotBlock = 7547661;
 let chiefAddress = "0x8E2a84D6adE1E7ffFEe039A35EF5F19F13057152";
 let chiefDepositsABI = [{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"deposits","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"}]
 let chiefLockTopic = "0xdd46706400000000000000000000000000000000000000000000000000000000"
+// This is a burner Infura free tier endpoint. Be nice!
 let fullNodeEndpoint = 'https://mainnet.infura.io/v3/07064b417611465dbcb7812088491075';
 
 let Web3 = require('web3');
