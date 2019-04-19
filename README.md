@@ -1,4 +1,6 @@
-### [MKR Roll Call](https://nmushegian.github.io/roll-call) result
+### [MKR Roll Call](https://nmushegian.github.io/roll-call) result - DRAFT, may contain errors
+
+![MKR Roll Call turnout pie chart](https://nikolai.fyi/slab-of-art/pie.png)
 
 ```
 235,529.15_ MKR turnout
@@ -15,11 +17,11 @@
 342 (190+152) voters ever `lock`ed MKR
 ```
 
+This was summarized from [this table](https://nikolai.fyi/slab-of-art/snap.txt), which was generated with [this script](https://nikolai.fyi/slab-of-art/slab.js).
+
 #### What next?
 
-* We will create a new plot layout to match the exact turnout. Once we announce it, you will see how much space you have.
-* We will identify "signing" keys for each address in `snap.csv`. For example, people using the voting proxy will use their voting key.
-* We will provide a page with instructions for providing your art
+There is nothing for you to do right now, except to begin sketching your art. Assume you get fewer characters than you want. We will make an announcement as soon as we have next steps.
 
 #### Incomplete draft plotsize table
 ```
