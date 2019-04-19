@@ -1,4 +1,21 @@
-see [roll-call](https://nmushegian.github.io/roll-call)
+### [MKR Roll Call](https://nmushegian.github.io/roll-call) result
+
+
+
+```
+235,529.15_ MKR turnout
+190 unique voting addresses
+
+2 voters with >= 50k
+7 (2+5) voters with >= 10k
+25 (7+12) voters with >= 1k
+49 (25+24) voters with >= 100
+92 (49+53) voters with >= 10
+151 (92+59) voters with >= 1
+190 (151+39) voters with >= mkr-wei
+342 (190+152) voters ever `lock`ed MKR
+```
+
 
 ### plot ID
 ```
