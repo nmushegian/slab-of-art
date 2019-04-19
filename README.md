@@ -21,20 +21,18 @@ This was summarized from [this table](https://nikolai.fyi/slab-of-art/snap.txt),
 
 ### What next?
 
-There is nothing for you to do right now, except to begin sketching your art.
-
-Assume you get fewer characters than you want.
-
-We will make an announcement as soon as we have next steps.
+* There is nothing for you to do right now, except to begin sketching your art.
+* We will make an announcement as soon as we have next steps.
+* Share ASCII sketches with fellow artists on #slab-of-art channel on [chat.makerdao.com](https://chat.makerdao.com).
 
 ### Incomplete draft plotsize table
 ```
-MKR amt  | chars | # of plots
----------|-------|---
-< 10000  |       | 7 
-< 2500   |       | 7 
-< 1000   |       | 11
-< 100    |       | 53
-< 10     |       | 96
-< 0.0001 |   1   | 2    // cute
+MKR amt  | plotsize | # of plots
+---------|----------|---
+< 10000  |          | 7 
+< 2500   |          | 7 
+< 1000   |          | 11
+< 100    |   4x2    | 53
+< 10     |   2x1    | 96
+< 0.0001 |   1x1    | 2    // cute
 ```
