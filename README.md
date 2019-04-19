@@ -19,7 +19,7 @@
 
 This was summarized from [this table](https://nikolai.fyi/slab-of-art/snap.txt), which was generated with [this script](https://nikolai.fyi/slab-of-art/slab.js).
 
-#### What next?
+### What next?
 
 There is nothing for you to do right now, except to begin sketching your art.
 
@@ -27,7 +27,7 @@ Assume you get fewer characters than you want.
 
 We will make an announcement as soon as we have next steps.
 
-#### Incomplete draft plotsize table
+### Incomplete draft plotsize table
 ```
 MKR amt  | chars | # of plots
 ---------|-------|---
