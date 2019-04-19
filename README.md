@@ -29,6 +29,7 @@ This was summarized from [this table](https://nikolai.fyi/slab-of-art/snap.txt),
 ```
 MKR amt  | plotsize | # of plots
 ---------|----------|---
+>=10000  |          |
 < 10000  |          |   
 < 2500   |          |   
 < 1000   |          | 
